@@ -36,3 +36,11 @@ Dependencies.toml
 
 #Ignore all .deb files
 *.deb
+
+*DS_Store
+
+.idea
+
+performance-test
+
+.gitignore
